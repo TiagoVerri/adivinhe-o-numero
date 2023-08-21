@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\adivinhe-o-numero\adivinhe-o-numero\bin\Debug\net6.0\adivinhe-o-numero.exe
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\adivinhe-o-numero\adivinhe-o-numero\bin\Debug\net6.0\adivinhe-o-numero.deps.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\adivinhe-o-numero\adivinhe-o-numero\bin\Debug\net6.0\adivinhe-o-numero.runtimeconfig.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\adivinhe-o-numero\adivinhe-o-numero\bin\Debug\net6.0\adivinhe-o-numero.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\adivinhe-o-numero\adivinhe-o-numero\bin\Debug\net6.0\adivinhe-o-numero.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\adivinhe-o-numero\adivinhe-o-numero\obj\Debug\net6.0\adivinhe-o-numero.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\adivinhe-o-numero\adivinhe-o-numero\obj\Debug\net6.0\adivinhe-o-numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\adivinhe-o-numero\adivinhe-o-numero\obj\Debug\net6.0\adivinhe-o-numero.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\adivinhe-o-numero\adivinhe-o-numero\obj\Debug\net6.0\adivinhe-o-numero.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\adivinhe-o-numero\adivinhe-o-numero\obj\Debug\net6.0\adivinhe-o-numero.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\adivinhe-o-numero\adivinhe-o-numero\obj\Debug\net6.0\adivinhe-o-numero.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\adivinhe-o-numero\adivinhe-o-numero\obj\Debug\net6.0\refint\adivinhe-o-numero.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\adivinhe-o-numero\adivinhe-o-numero\obj\Debug\net6.0\adivinhe-o-numero.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\adivinhe-o-numero\adivinhe-o-numero\obj\Debug\net6.0\adivinhe-o-numero.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Fundamento de programação\adivinhe-o-numero\adivinhe-o-numero\obj\Debug\net6.0\ref\adivinhe-o-numero.dll
